@@ -39,4 +39,3 @@ while True:
 	Amazon_handler()
 	print("Will fetch again after 1 minute. To stop press ctl + c...")
 	time.sleep(60) 
-s
